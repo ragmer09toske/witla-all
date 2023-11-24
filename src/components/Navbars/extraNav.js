@@ -19,11 +19,7 @@ export const ExtraNav = () => {
         className="Accomodations"
     >
         <Typography onClick={toAccomodation}>
-<<<<<<< HEAD
             Accomodations Start
-=======
-            Accomodations
->>>>>>> 994a0d34e2c97e76c009d92bdf6b2fba3a1df637
         </Typography>
     </Box>
   )
