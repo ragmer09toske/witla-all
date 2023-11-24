@@ -19,7 +19,7 @@ export const ExtraNav = () => {
         className="Accomodations"
     >
         <Typography onClick={toAccomodation}>
-            Accomodations Start
+            Accomodations Start changed again
         </Typography>
     </Box>
   )
